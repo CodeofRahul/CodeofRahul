@@ -37,10 +37,10 @@ Data Scientist | MLOps Specialist | Specializing in Building Scalable AI Systems
 
 ## 💻 Tech Stack & Tools
 
-- 🐍 Python | SQL | Bash
+- 🐍 Python | SQL | Bash | Linux
 - 🧪 MLflow | DVC | Airflow
 - 📦 Docker | Kubernetes (AWS EKS)
-- ☁️ AWS (S3, EC2, ECR, IAM, EKS)
+- ☁️ AWS (SageMaker, Lambda, CloudWatch, S3, EC2, ECR, IAM, EKS)
 - ⚙️ Git | GitHub Actions | CI/CD Pipelines
 - 🛠️ Prometheus | Grafana for Monitoring
 
