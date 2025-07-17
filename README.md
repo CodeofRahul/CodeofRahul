@@ -1,15 +1,29 @@
-<h1 align="center">👋 Hi, I'm Rahul</h1>
-
 <p align="center">
-Data Scientist | MLOps Specialist | Specializing in Building Scalable AI Systems
+  <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Developer.gif" width="20%" />
 </p>
+
+
+
+
+
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm <strong>Rahul</strong>
+</h1>
+
+
+
+<p align="center"> <strong>MLOps Engineer | Building Scalable & Production-Ready AI Systems</strong> </p>
 
 <p align="center">
 <a href="mailto:420kumarahul@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue.svg?style=flat-square&logo=gmail"></a>
-<a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-Engineer-orange.svg?style=flat-square&logo=python"></a>
-<a href="#"><img src="https://img.shields.io/badge/AWS-Cloud-orange.svg?style=flat-square&logo=amazonaws"></a>
-<a href="#"><img src="https://img.shields.io/badge/Docker-Containerization-blue.svg?style=flat-square&logo=docker"></a>
-<a href="#"><img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue.svg?style=flat-square&logo=kubernetes"></a>
+<a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/Machine%20Learning-Engineer-orange.svg?style=flat-square&logo=python"></a>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-Cloud-orange.svg?style=flat-square&logo=amazonaws"></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-Containerization-blue.svg?style=flat-square&logo=docker"></a>
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue.svg?style=flat-square&logo=kubernetes"></a>
+<a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Airflow-Orchestration-blue.svg?style=flat-square&logo=apacheairflow"></a>
+<a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-Monitoring-orange.svg?style=flat-square&logo=prometheus"></a>
+<a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-Observability-orange.svg?style=flat-square&logo=grafana"></a>
 </p>
 
 ---
@@ -42,7 +56,7 @@ Data Scientist | MLOps Specialist | Specializing in Building Scalable AI Systems
 - 📦 Docker | Kubernetes (AWS EKS)
 - ☁️ AWS (SageMaker, Lambda, CloudWatch, S3, EC2, ECR, IAM, EKS)
 - ⚙️ Git | GitHub Actions | CI/CD Pipelines
-- 🛠️ Prometheus | Grafana for Monitoring
+- 🛠️ Prometheus | Grafana
 
 ---
 
@@ -87,11 +101,12 @@ Data Scientist | MLOps Specialist | Specializing in Building Scalable AI Systems
 
 ## 📫 Let's Connect
 
-💬  Feel free to reach out if you'd like to collaborate, discuss potential opportunities, or just connect:
+👋 I’m open to collaborations, freelance opportunities, or full-time roles in MLOps & AI Engineering.
+Feel free to connect or drop a message!:<br>
 📧 **Email:** [420kumarahul@gmail.com](mailto:420kumarahul@gmail.com)
 
 ---
 
 <p align="center">
-  Thanks for stopping by! 🚀
+  Building in public. Learning every day. Let’s connect! 🚀
 </p>
